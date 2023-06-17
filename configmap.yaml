@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: redis-config
+data:
+  REDIS_MASTER_SERVICE_HOST: cmVkaXM=
+  REDIS_MASTER_SERVICE_PORT: NjM3OQ==
+  REDIS_MASTER_SERVICE_PASSWORD: c3RyMG5nLXA0NTVzdzByZA==
+  REDIS_MASTER_PORT: NjM3OQ==
+
